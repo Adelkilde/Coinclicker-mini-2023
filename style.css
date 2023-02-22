@@ -122,8 +122,8 @@ body {
 
 .clickbomb {
   animation: clickbomb;
-  animation-duration: 3s;
-  animation-iteration-count: 1;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
   animation-timing-function: ease-in;
   animation-fill-mode: forwards;
 }
